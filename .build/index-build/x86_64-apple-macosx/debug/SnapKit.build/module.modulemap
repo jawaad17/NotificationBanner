@@ -1,0 +1,4 @@
+module SnapKit {
+    header "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/SnapKit-Swift.h"
+    requires objc
+}

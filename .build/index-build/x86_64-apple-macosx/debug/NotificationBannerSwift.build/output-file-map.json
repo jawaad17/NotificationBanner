@@ -1,0 +1,83 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/master.swiftdeps"
+  },
+  "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerColors.swift": {
+    "dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerColors.d",
+    "object": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerColors.swift.o",
+    "swiftmodule": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerColors~partial.swiftmodule",
+    "swift-dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerColors.swiftdeps"
+  },
+  "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerHapticGenerator.swift": {
+    "dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerHapticGenerator.d",
+    "object": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerHapticGenerator.swift.o",
+    "swiftmodule": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerHapticGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerHapticGenerator.swiftdeps"
+  },
+  "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerPositionFrame.swift": {
+    "dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerPositionFrame.d",
+    "object": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerPositionFrame.swift.o",
+    "swiftmodule": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerPositionFrame~partial.swiftmodule",
+    "swift-dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerPositionFrame.swiftdeps"
+  },
+  "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerStyle.swift": {
+    "dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerStyle.d",
+    "object": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerStyle.swift.o",
+    "swiftmodule": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerStyle.swiftdeps"
+  },
+  "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BaseNotificationBanner.swift": {
+    "dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BaseNotificationBanner.d",
+    "object": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BaseNotificationBanner.swift.o",
+    "swiftmodule": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BaseNotificationBanner~partial.swiftmodule",
+    "swift-dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BaseNotificationBanner.swiftdeps"
+  },
+  "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/FloatingNotificationBanner.swift": {
+    "dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/FloatingNotificationBanner.d",
+    "object": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/FloatingNotificationBanner.swift.o",
+    "swiftmodule": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/FloatingNotificationBanner~partial.swiftmodule",
+    "swift-dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/FloatingNotificationBanner.swiftdeps"
+  },
+  "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/GrowingNotificationBanner.swift": {
+    "dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/GrowingNotificationBanner.d",
+    "object": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/GrowingNotificationBanner.swift.o",
+    "swiftmodule": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/GrowingNotificationBanner~partial.swiftmodule",
+    "swift-dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/GrowingNotificationBanner.swiftdeps"
+  },
+  "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/NotificationBanner.swift": {
+    "dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/NotificationBanner.d",
+    "object": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/NotificationBanner.swift.o",
+    "swiftmodule": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/NotificationBanner~partial.swiftmodule",
+    "swift-dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/NotificationBanner.swiftdeps"
+  },
+  "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/NotificationBannerQueue.swift": {
+    "dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/NotificationBannerQueue.d",
+    "object": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/NotificationBannerQueue.swift.o",
+    "swiftmodule": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/NotificationBannerQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/NotificationBannerQueue.swiftdeps"
+  },
+  "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/NotificationBannerUtilities.swift": {
+    "dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/NotificationBannerUtilities.d",
+    "object": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/NotificationBannerUtilities.swift.o",
+    "swiftmodule": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/NotificationBannerUtilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/NotificationBannerUtilities.swiftdeps"
+  },
+  "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/StatusBarNotificationBanner.swift": {
+    "dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/StatusBarNotificationBanner.d",
+    "object": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/StatusBarNotificationBanner.swift.o",
+    "swiftmodule": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/StatusBarNotificationBanner~partial.swiftmodule",
+    "swift-dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/StatusBarNotificationBanner.swiftdeps"
+  },
+  "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/String+heightForConstrainedWidth.swift": {
+    "dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/String+heightForConstrainedWidth.d",
+    "object": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/String+heightForConstrainedWidth.swift.o",
+    "swiftmodule": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/String+heightForConstrainedWidth~partial.swiftmodule",
+    "swift-dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/String+heightForConstrainedWidth.swiftdeps"
+  },
+  "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/UIWindow+orientation.swift": {
+    "dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/UIWindow+orientation.d",
+    "object": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/UIWindow+orientation.swift.o",
+    "swiftmodule": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/UIWindow+orientation~partial.swiftmodule",
+    "swift-dependencies": "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/UIWindow+orientation.swiftdeps"
+  }
+}

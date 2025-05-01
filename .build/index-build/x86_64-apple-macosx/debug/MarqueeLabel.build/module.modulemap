@@ -1,0 +1,4 @@
+module MarqueeLabel {
+    header "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/MarqueeLabel.build/MarqueeLabel-Swift.h"
+    requires objc
+}

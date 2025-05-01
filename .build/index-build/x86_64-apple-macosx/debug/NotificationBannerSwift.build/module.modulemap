@@ -1,0 +1,4 @@
+module NotificationBannerSwift {
+    header "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/NotificationBannerSwift-Swift.h"
+    requires objc
+}

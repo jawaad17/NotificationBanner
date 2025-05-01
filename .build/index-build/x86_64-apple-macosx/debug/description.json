@@ -1,0 +1,1176 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+    "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/MarqueeLabel_MarqueeLabel.bundle/PrivacyInfo.xcprivacy" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/MarqueeLabel/Sources/PrivacyInfo.xcprivacy"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/MarqueeLabel_MarqueeLabel.bundle/PrivacyInfo.xcprivacy"
+        }
+      ]
+    },
+    "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit_SnapKit.bundle/PrivacyInfo.xcprivacy" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/PrivacyInfo.xcprivacy"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit_SnapKit.bundle/PrivacyInfo.xcprivacy"
+        }
+      ]
+    }
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.MarqueeLabel-x86_64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/MarqueeLabel.build/sources",
+      "importPath" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/MarqueeLabel/Sources/MarqueeLabel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/MarqueeLabel.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<MarqueeLabel-x86_64-apple-macosx15.0-debug.module-resources>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/MarqueeLabel.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "MarqueeLabel",
+      "moduleOutputPath" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/Modules/MarqueeLabel.swiftmodule",
+      "objects" : [
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/MarqueeLabel.build/MarqueeLabel.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/MarqueeLabel.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/MarqueeLabel.build/MarqueeLabel-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-suppress-warnings",
+        "-package-name",
+        "marqueelabel"
+      ],
+      "outputFileMapPath" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/MarqueeLabel.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/Modules/MarqueeLabel.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/MarqueeLabel/Sources/MarqueeLabel.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/MarqueeLabel.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/MarqueeLabel.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.NotificationBannerSwift-x86_64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/sources",
+      "importPath" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerColors.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerHapticGenerator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerPositionFrame.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerStyle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BaseNotificationBanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/FloatingNotificationBanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/GrowingNotificationBanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/NotificationBanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/NotificationBannerQueue.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/NotificationBannerUtilities.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/StatusBarNotificationBanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/String+heightForConstrainedWidth.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/UIWindow+orientation.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/Modules/MarqueeLabel.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/Modules/SnapKit.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "NotificationBannerSwift",
+      "moduleOutputPath" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/Modules/NotificationBannerSwift.swiftmodule",
+      "objects" : [
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerColors.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerHapticGenerator.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerPositionFrame.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BannerStyle.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/BaseNotificationBanner.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/FloatingNotificationBanner.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/GrowingNotificationBanner.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/NotificationBanner.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/NotificationBannerQueue.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/NotificationBannerUtilities.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/StatusBarNotificationBanner.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/String+heightForConstrainedWidth.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/UIWindow+orientation.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/NotificationBannerSwift-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g"
+      ],
+      "outputFileMapPath" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/Modules/NotificationBannerSwift.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerColors.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerHapticGenerator.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerPositionFrame.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerStyle.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BaseNotificationBanner.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/FloatingNotificationBanner.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/GrowingNotificationBanner.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/NotificationBanner.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/NotificationBannerQueue.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/NotificationBannerUtilities.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/StatusBarNotificationBanner.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/String+heightForConstrainedWidth.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/UIWindow+orientation.swift"
+      ],
+      "tempsPath" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.SnapKit-x86_64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/sources",
+      "importPath" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/Constraint.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintAttributes.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintConfig.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintConstantTarget.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintDSL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintDescription.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintDirectionalInsetTarget.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintDirectionalInsets.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintInsetTarget.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintInsets.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintItem.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutGuide+Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutGuide.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutGuideDSL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutSupport.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutSupportDSL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMaker.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerEditable.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerExtendable.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerFinalizable.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerPrioritizable.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerRelatable.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMultiplierTarget.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintOffsetTarget.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintPriority.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintPriorityTarget.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintRelatableTarget.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintRelation.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintView+Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintViewDSL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/Debugging.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/LayoutConstraint.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/LayoutConstraintItem.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/Typealiases.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/UILayoutSupport+Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<SnapKit-x86_64-apple-macosx15.0-debug.module-resources>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SnapKit",
+      "moduleOutputPath" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/Modules/SnapKit.swiftmodule",
+      "objects" : [
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/Constraint.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintAttributes.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintConfig.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintConstantTarget.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintDSL.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintDescription.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintDirectionalInsetTarget.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintDirectionalInsets.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintInsetTarget.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintInsets.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintItem.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintLayoutGuide+Extensions.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintLayoutGuide.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintLayoutGuideDSL.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintLayoutSupport.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintLayoutSupportDSL.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintMaker.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintMakerEditable.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintMakerExtendable.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintMakerFinalizable.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintMakerPrioritizable.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintMakerRelatable+Extensions.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintMakerRelatable.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintMultiplierTarget.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintOffsetTarget.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintPriority.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintPriorityTarget.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintRelatableTarget.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintRelation.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintView+Extensions.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintView.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/ConstraintViewDSL.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/Debugging.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/LayoutConstraint.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/LayoutConstraintItem.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/Typealiases.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/UILayoutSupport+Extensions.swift.o",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/SnapKit-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-suppress-warnings"
+      ],
+      "outputFileMapPath" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/Modules/SnapKit.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/Constraint.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintAttributes.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintConfig.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintConstantTarget.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintDSL.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintDescription.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintDirectionalInsetTarget.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintDirectionalInsets.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintInsetTarget.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintInsets.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintItem.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutGuide+Extensions.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutGuide.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutGuideDSL.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutSupport.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutSupportDSL.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMaker.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerEditable.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerExtendable.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerFinalizable.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerPrioritizable.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerRelatable.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMultiplierTarget.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintOffsetTarget.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintPriority.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintPriorityTarget.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintRelatableTarget.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintRelation.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintView+Extensions.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintView.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintViewDSL.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/Debugging.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/LayoutConstraint.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/LayoutConstraintItem.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/Typealiases.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/UILayoutSupport+Extensions.swift",
+        "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "MarqueeLabel" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "MarqueeLabel",
+      "-package-name",
+      "marqueelabel",
+      "-incremental",
+      "-c",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/MarqueeLabel/Sources/MarqueeLabel.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/MarqueeLabel.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/Modules",
+      "-target",
+      "x86_64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/MarqueeLabel.build/MarqueeLabel-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-suppress-warnings",
+      "-package-name",
+      "marqueelabel",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "NotificationBannerSwift" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "NotificationBannerSwift",
+      "-incremental",
+      "-c",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerColors.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerHapticGenerator.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerPositionFrame.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerStyle.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BaseNotificationBanner.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/FloatingNotificationBanner.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/GrowingNotificationBanner.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/NotificationBanner.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/NotificationBannerQueue.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/NotificationBannerUtilities.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/StatusBarNotificationBanner.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/String+heightForConstrainedWidth.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/UIWindow+orientation.swift",
+      "-I",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/Modules",
+      "-target",
+      "x86_64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/NotificationBannerSwift-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "SnapKit" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SnapKit",
+      "-incremental",
+      "-c",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/Constraint.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintAttributes.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintConfig.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintConstantTarget.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintDSL.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintDescription.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintDirectionalInsetTarget.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintDirectionalInsets.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintInsetTarget.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintInsets.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintItem.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutGuide+Extensions.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutGuide.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutGuideDSL.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutSupport.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutSupportDSL.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMaker.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerEditable.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerExtendable.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerFinalizable.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerPrioritizable.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerRelatable.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMultiplierTarget.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintOffsetTarget.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintPriority.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintPriorityTarget.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintRelatableTarget.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintRelation.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintView+Extensions.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintView.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintViewDSL.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/Debugging.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/LayoutConstraint.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/LayoutConstraintItem.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/Typealiases.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/UILayoutSupport+Extensions.swift",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/Modules",
+      "-target",
+      "x86_64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/SnapKit-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-suppress-warnings",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "MarqueeLabel" : [
+
+    ],
+    "NotificationBannerSwift" : [
+      "SnapKit",
+      "MarqueeLabel"
+    ],
+    "SnapKit" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "enableAllTraits" : false
+  },
+  "writeCommands" : {
+    "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/MarqueeLabel.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/MarqueeLabel/Sources/MarqueeLabel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/MarqueeLabel.build/DerivedSources/resource_bundle_accessor.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/MarqueeLabel.build/sources"
+    },
+    "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerColors.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerHapticGenerator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerPositionFrame.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BannerStyle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/BaseNotificationBanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/FloatingNotificationBanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/GrowingNotificationBanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/NotificationBanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/NotificationBannerQueue.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/NotificationBannerUtilities.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/StatusBarNotificationBanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/String+heightForConstrainedWidth.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/NotificationBanner/Classes/UIWindow+orientation.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/NotificationBannerSwift.build/sources"
+    },
+    "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/Constraint.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintAttributes.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintConfig.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintConstantTarget.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintDSL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintDescription.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintDirectionalInsetTarget.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintDirectionalInsets.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintInsetTarget.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintInsets.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintItem.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutGuide+Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutGuide.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutGuideDSL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutSupport.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintLayoutSupportDSL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMaker.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerEditable.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerExtendable.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerFinalizable.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerPrioritizable.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMakerRelatable.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintMultiplierTarget.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintOffsetTarget.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintPriority.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintPriorityTarget.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintRelatableTarget.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintRelation.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintView+Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/ConstraintViewDSL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/Debugging.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/LayoutConstraint.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/LayoutConstraintItem.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/Typealiases.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/checkouts/SnapKit/Sources/UILayoutSupport+Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/DerivedSources/resource_bundle_accessor.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/SnapKit.build/sources"
+    },
+    "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/jawad/Documents/Code Bites/NotificationBanner/.build/index-build/x86_64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}
